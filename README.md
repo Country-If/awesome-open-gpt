@@ -57,7 +57,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | ChatGPT桌面版-01 | [lencx-ChatGPT🔥](https://github.com/lencx/ChatGPT) | 53.8k | ChatGPT桌面版(Windows、macOS和Linux) | 1.导出聊天记录(PNG, PDF和Markdown)2.支持斜杠调出常用Prompts(awesome-chatgpt-prompts )3.网页登录模式 |
-| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 35.0k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
+| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 35.1k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
 | ChatGPT桌面版-03 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 8.4k | ChatGPT加强版桌面应用 | 1.支持网站 + Windows + MacOS + Linux2.绕过 ChatGPT 区域限制的代理3.过滤聊天和文件夹 |
 | ChatGPT桌面版-04 | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) | 2.0k | 非官方的ChatGPT桌面应用程序(Windows、macOS和Linux) | 1.支持API模式，免登录2.支持在Windows和Mac的菜单栏显示 |
 | ChatGPT桌面版-05 | [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) | 1.7k | ChatGPT 跨平台客户端(Windows、macOS和Linux) | 1.支持设置对话角色2.支持文生图 |
@@ -79,7 +79,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 6.9k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
 | ChatGPT-命令行版-03 | [pandora](https://github.com/pengzhile/pandora) | 1.2k | 潘多拉，一个不只是命令行的ChatGPT | 多模式：网页/命令行/API，私有化部署 |
 | ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 666 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
-| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 26.1k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
+| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 26.2k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
 
 
 ### GPT编程语言客户端
@@ -224,7 +224,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 8.2k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
+| 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 8.3k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
 
 
 #### GPT工具-通用
@@ -250,7 +250,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 结构知识 | [GraphGPT](https://github.com/varunshenoy/GraphGPT) | 4.4k | 自然语言 → 结构知识 | 1.GraphGPT将非结构化的自然语言转换为知识图。传入您最喜欢的电影概要、维基百科页面上令人困惑的段落或视频文本，以生成实体及其关系的可视化图表。 |
 | 面试提示 | [cheetah](https://github.com/leetcode-mafia/cheetah) | 4.2k | 使用GPT和Whisper辅助远程面试 |  |
 | 讲故事 | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 1.4k | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型 |  |
-| AR体验 | [ChatARKit](https://github.com/trzy/ChatARKit) | 436 | 使用ChatGPT以自然语言创建AR体验 | 1.基于Sketchfab-3D模型网站 |
+| AR体验 | [ChatARKit](https://github.com/trzy/ChatARKit) | 439 | 使用ChatGPT以自然语言创建AR体验 | 1.基于Sketchfab-3D模型网站 |
 | Apple健康 | [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) | 1.8k | 使用自然语言💬🩺查询Apple Health数据 | 1.与 Apple Health 应用程序集成以确保无缝地使用第一方数据2.开箱即用支持查询睡眠、步数、活跃能量、运动分钟数、心率和体重。 |
 
 
@@ -274,24 +274,24 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 通用插件-01 | [chatGPTBox](https://github.com/josStorer/chatGPTBox) | 10.5k | 将ChatGPT深度集成到您的浏览器中 | 1.在任何页面随时呼出聊天对话框2.支持手机等移动设备3.通过右键菜单总结任意页面4.框选工具与右键菜单,执行各种你的需求,如翻译,总结,润色,情感分析,段落划分,代码解释,问询5.支持reddit, quora, youtube, github, gitlab, stackoverflow, zhihu, bilibili等网站 |
+| 通用插件-01 | [chatGPTBox](https://github.com/josStorer/chatGPTBox) | 10.6k | 将ChatGPT深度集成到您的浏览器中 | 1.在任何页面随时呼出聊天对话框2.支持手机等移动设备3.通过右键菜单总结任意页面4.框选工具与右键菜单,执行各种你的需求,如翻译,总结,润色,情感分析,段落划分,代码解释,问询5.支持reddit, quora, youtube, github, gitlab, stackoverflow, zhihu, bilibili等网站 |
 | 通用插件-02 | [browser-extension](https://github.com/TaxyAI/browser-extension) | 1.2k | 使用GPT-4自动化你的浏览器 | 1. 支持github、Netflix、OpenAI、calendar 等网站自动化操作 |
 | 搜索插件 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | 13.2k | 在Google搜索结果旁边显示ChatGPT响应 | 1. 右侧显示ChatGPT搜索内容2.自定义触发模式3.支持切换语言 |
-| 文本框插件 | [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | 2.9k | 将ChatGPT集成到互联网上的每个文本框中! | 1.在文本框中右键Ask ChatGPT使用2.用它来写推特，修改电子邮件，修复代码错误，或其他任何你需要的东西 |
+| 文本框插件 | [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | 3.0k | 将ChatGPT集成到互联网上的每个文本框中! | 1.在文本框中右键Ask ChatGPT使用2.用它来写推特，修改电子邮件，修复代码错误，或其他任何你需要的东西 |
 | 文本框插件-推特版 | [tweetGPT](https://github.com/yaroslav-n/tweetGPT) | 667 | ChatGPT浏览器插件-推特网页 | 1.在推特网页版中生成推文和回复 |
 | 翻译插件-01 | [openai-translator](https://github.com/yetone/openai-translator) | 24.4k | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。 | 1.划词翻译 |
-| 翻译插件-02 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 15.3k | 沉浸式双语网页翻译扩展。 | 1.双语显示，中英文对照。2.针对常见主流网站进行定制优化，如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。3.支持 PDF 文件，EPUB 电子书双语翻译，制作与导出。4.支持移动端 |
+| 翻译插件-02 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 15.6k | 沉浸式双语网页翻译扩展。 | 1.双语显示，中英文对照。2.针对常见主流网站进行定制优化，如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。3.支持 PDF 文件，EPUB 电子书双语翻译，制作与导出。4.支持移动端 |
 | 下载插件 | [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) | 1.5k | 一个Chrome扩展下载你的聊天gpt历史PNG, PDF或可分享的链接。 | 1.下载chatgpt官网聊天历史PNG |
 | ChatGPT增强插件-01 | [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) | 6.5k | 一个浏览器扩展，增强您的ChatGPT提示与网络结果。 | 1.这个浏览器扩展为ChatGPT添加了web访问功能。从聊天机器人获得更多相关和最新的答案! |
 | ChatGPT增强插件-02 | [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) | 1.6k | 一个浏览器扩展，添加缺少的功能，如文件夹，搜索和社区提示ChatGPT | 1.支持文件夹和排序2.搜索高亮 |
 | 语音插件-01 | [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) | 1.9k | 用你的声音与ChatGPT AI交谈，并通过声音听它的答案。 | 1.和ChatGPT语音交流!2.支持多种语言 |
-| 语音插件-02 | [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) | 231 | 嵌入ChatGPT作为免提语音助手。 | 1.ChassistantGPT支持60多种语言和方言。选择您的母语和自定义触发短语(可在选项卡中配置) |
+| 语音插件-02 | [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) | 229 | 嵌入ChatGPT作为免提语音助手。 | 1.ChassistantGPT支持60多种语言和方言。选择您的母语和自定义触发短语(可在选项卡中配置) |
 | 分享插件 | [sharegpt](https://github.com/domeccleston/sharegpt) | 1.8k | 轻松地共享ChatGPT对话的永久链接到https://sharegpt.com/ | 1.一键分享自己ChatGPT对话到https://sharegpt.com |
-| 阅读插件 | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 589 | arxiv论文使用ChatGPT | 1.能帮你读arxiv论文，在一些地方给出注解 |
-| 总结插件-01 | [summarize.site](https://github.com/clmnin/summarize.site) | 748 | 使用OpenAI ChatGPT总结网页 |  |
+| 阅读插件 | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 588 | arxiv论文使用ChatGPT | 1.能帮你读arxiv论文，在一些地方给出注解 |
+| 总结插件-01 | [summarize.site](https://github.com/clmnin/summarize.site) | 744 | 使用OpenAI ChatGPT总结网页 |  |
 | 总结插件-02 | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 2.0k | 它可以在Google搜索和YouTube旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。 |  |
 | 总结插件-03 | [WebPilot](https://github.com/webpilot-ai/Webpilot) | 1.8k | Webpilot是一个免费、开源的“网络副驾驶”，可以让您与网页进行自由形式的对话，或与其他用户进行自动争论。 | 1. 总结网页内容。 2. 可以自定义指令，对所选网页内容进行任何提问。 |
-| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 831 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
+| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 837 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
 
 
 #### GPT插件-第三方应用
@@ -306,12 +306,12 @@ awesome-open-gpt/gpt相关开源项目合集
 | 编辑器-IDA Pro插件 | [Gepetto](https://github.com/JusticeRage/Gepetto) | 3.1k | 一个接入了ChatGPT接口的IDA Pro插件 | 1.支持解释函数2.支持重命名变量 |
 | 编辑器-JetBrains插件 | [JetBrains-插件](https://github.com/dromara/ChatGPT) | 1.0k | 支持ChatGPT在JetBrains系列IDE上运行的一款插件 |  |
 | 编辑器-intellij插件 | [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt) | 140 | 一个将ChatGPT和其他第三方镜像网站整合到JetBrains IDEs 的插件。 | 1.集成免费的第三方镜像网站，并且更新方便。 |
-| 效率工具-raycast插件 | [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) | 596 | 一个raycast的ChatGPT插件 | 1.使用Mac快捷键直接唤起ChatGPT进行对话2.自定义对话指令 |
+| 效率工具-raycast插件 | [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) | 597 | 一个raycast的ChatGPT插件 | 1.使用Mac快捷键直接唤起ChatGPT进行对话2.自定义对话指令 |
 | 谷歌文档插件 | [docGPT](https://github.com/cesarhuret/docGPT) | 675 | ChatGPT直接在谷歌文档作为编辑器插件 | 1.ChatGPT直接集成到谷歌Docs中2.选中doc一键发送给chatgpt |
-| Kubernetes插件-01 | [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) | 928 | 使用ChatGPT解决Kubernetes问题 | 1.向ChatGPT直接发生Prometheus警报询问如何修复告警2.依赖可观测性神器robusta |
+| Kubernetes插件-01 | [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) | 927 | 使用ChatGPT解决Kubernetes问题 | 1.向ChatGPT直接发生Prometheus警报询问如何修复告警2.依赖可观测性神器robusta |
 | Kubernetes插件-02 | [kubectl-ai](https://github.com/sozercan/kubectl-ai) | 1.2k | 这个项目是一个kubectl插件，使用OpenAI GPT生成和应用Kubernetes清单 | 1.用自然语言生成Kubernetes配置 |
 | github插件-01 | [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) | 4.3k | github的代码审查机器人 | 1.让ChatGPT自动reviewCode2.让chatgpt检查你的PR |
-| github插件-02 | [chatgpt-action](https://github.com/kxxt/chatgpt-action) | 560 | github的codeReview插件 | 1.让ChatGPT自动reviewCode2.让chatgpt检查你的PR |
+| github插件-02 | [chatgpt-action](https://github.com/kxxt/chatgpt-action) | 561 | github的codeReview插件 | 1.让ChatGPT自动reviewCode2.让chatgpt检查你的PR |
 | 小爱插件 | [xiaogpt](https://github.com/yihong0618/xiaogpt) | 6.6k | 在小爱音响上接入ChatGPT | 1.使用小米AI扬声器播放ChatGPT |
 | 3D软件Blender插件 | [BlenderGPT](https://github.com/gd3kr/BlenderGPT) | 4.8k | 在Blender上接入ChatGPT | 1.在只需要输入文本，即可快速构建3D模型 |
 | Siri插件 | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 3.7k | 通过 Siri 启动「快捷指令」连接 ChatGPT API，让 Siri 变身 AI 聊天助手 | 1.支持连续对话2.配置系统prompt3.保存聊天记录 |
@@ -324,7 +324,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | 73.4k | 一个聊天机器人接受了大量干净的助手数据的训练，包括代码、故事和对话 | 1. 本地训练，调教 |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | 73.5k | 一个聊天机器人接受了大量干净的助手数据的训练，包括代码、故事和对话 | 1. 本地训练，调教 |
 | [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) | 4.7k | gpt4all的ui界面 | 1. 使用ui界面本地训练，调教，使用 |
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | 37.4k | OpenAssistant是一个基于聊天的助手，可以理解任务，可以与第三方系统交互，并动态检索信息。 | Open Assistant 是一个旨在让每个人都能访问基于聊天的大型语言模型的项目。 |
 | [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 30.0k | 斯坦福的羊驼模型（羊驼） |  |
