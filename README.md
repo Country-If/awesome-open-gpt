@@ -109,7 +109,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| GPT自动化-01 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 176.9k | 自动化的GPT | 1.与ChatGPT不同的是，用户不需要不断对AI提问以获得对应回答，在AutoGPT中只需为其提供一个AI名称、描述和五个目标，然后AutoGPT就可以自己完成项目2.它可以读写文件、浏览网页、审查自己提示的结果，以及将其与所说的提示历史记录相结合。 |
+| GPT自动化-01 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 177.0k | 自动化的GPT | 1.与ChatGPT不同的是，用户不需要不断对AI提问以获得对应回答，在AutoGPT中只需为其提供一个AI名称、描述和五个目标，然后AutoGPT就可以自己完成项目2.它可以读写文件、浏览网页、审查自己提示的结果，以及将其与所说的提示历史记录相结合。 |
 | GPT自动化-01-插件 | [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 3.9k | AutoGPT的插件 | 暂时没内容，仓库来源于AutoGPT作者，值得留意！！! |
 | GPT自动化-01-图形界面 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 1.5k | AutoGPT的图形用户界面 |  |
 | GPT自动化-01-图形界面 | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 186 | 一键免费部署你的私人AutoGPT 网页应用 | 1.1 分钟内使用 Vercel 免费一键部署2.改进的本地支持：输入中文后，内容将以中文显示，而不是英文 |
@@ -182,13 +182,13 @@ awesome-open-gpt/gpt相关开源项目合集
 | github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 384 | 一个基于ChatGPT的GitHub机器人 |  |
 | 错误检测-01 | [wolverine](https://github.com/biobootloader/wolverine) | 5.2k | 使用Wolverine运行脚本，当它们崩溃时，GPT-4会编辑它们并解释错误所在。即使你有很多错误，它也会反复重新运行，直到它被修复。 |  |
 | 错误检测-02 | [stackexplain](https://github.com/shobrook/stackexplain) | 1.4k | 使用ChatGPT用简单的英语解释你的错误信息 | 用stackexplain命令运行pythohn脚本，并且自动检测错误给出正确的修复方法 |
-| SQL客户端-01 | [sqlchat](https://github.com/sqlchat/sqlchat) | 5.2k | SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 | 1.支持MySQL和PostgreSQL |
-| SQL客户端-02 | [Chat2DB](https://github.com/chat2db/Chat2DB) | 21.5k | 一款智能、通用的通用 SQL 客户端和数据库报告工具，集成了 ChatGPT 功能。 | 1.AI智能助手，支持自然语言到SQL转换、SQL到自然语言转换、SQL优化建议2.强大的扩展能力，目前支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等，未来将支持更多数据库 |
+| SQL客户端-01 | [sqlchat](https://github.com/sqlchat/sqlchat) | 5.3k | SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 | 1.支持MySQL和PostgreSQL |
+| SQL客户端-02 | [Chat2DB](https://github.com/chat2db/Chat2DB) | 23.6k | 一款智能、通用的通用 SQL 客户端和数据库报告工具，集成了 ChatGPT 功能。 | 1.AI智能助手，支持自然语言到SQL转换、SQL到自然语言转换、SQL优化建议2.强大的扩展能力，目前支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等，未来将支持更多数据库 |
 | 代码搜索引擎 | [bloop](https://github.com/BloopAI/bloop) | 9.5k | bloop 是一个代码搜索引擎，它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库 | 1.正则表达式搜索2.同步本地和Github仓库 |
-| 代码对话 | [gpt-runner](https://github.com/nicepkg/gpt-runner) | 365 | 与您的文件对话！管理和运行您的 AI 预设！ | 1.与代码文件的对话 2.管理项目的 AI 预设 |
-| 代码生成 | [aiac](https://github.com/gofireflyio/aiac) | 3.6k | 命令行的代码生成器 | 1.生成IaC2.生成docker、k8s配置3.生成CI/CD4.生成SQL |
+| 代码对话 | [gpt-runner](https://github.com/nicepkg/gpt-runner) | 366 | 与您的文件对话！管理和运行您的 AI 预设！ | 1.与代码文件的对话 2.管理项目的 AI 预设 |
+| 代码生成 | [aiac](https://github.com/gofireflyio/aiac) | 3.7k | 命令行的代码生成器 | 1.生成IaC2.生成docker、k8s配置3.生成CI/CD4.生成SQL |
 | 语言转换 | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 4.1k | 使用 AI 将代码从一种语言翻译成另一种语言。 |  |
-| 数据处理 | [pandas-ai](https://github.com/gventuri/pandas-ai) | 19.7k | 它将生成式人工智能功能集成到Pandas中，使数据框架具有会话性。 |  |
+| 数据处理 | [pandas-ai](https://github.com/gventuri/pandas-ai) | 20.9k | 它将生成式人工智能功能集成到Pandas中，使数据框架具有会话性。 |  |
 
 
 #### GPT工具-音视频
@@ -198,9 +198,9 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 视频总结 | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 5.6k | 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 | 开发中：支持网页丨播客丨会议丨本地音视频文件等输入，Prompt 和输出端均在持续迭代中 |
-| 视频交谈 | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 3.2k | 具有视频理解功能的 ChatGPT！ | 1.支持miniGPT4、StableLM 和 MOSS |
-| 语音-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 10.1k | 理解和生成语音、音乐、声音和说话头 | 1.支持唱歌2.支持看图生成BGM3.生成音效 |
+| 视频总结 | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 5.7k | 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 | 开发中：支持网页丨播客丨会议丨本地音视频文件等输入，Prompt 和输出端均在持续迭代中 |
+| 视频交谈 | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 3.3k | 具有视频理解功能的 ChatGPT！ | 1.支持miniGPT4、StableLM 和 MOSS |
+| 语音-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 10.2k | 理解和生成语音、音乐、声音和说话头 | 1.支持唱歌2.支持看图生成BGM3.生成音效 |
 | 语音-02 | [speechgpt](https://github.com/hahahumble/speechgpt) | 2.8k | SpeechGPT是一个允许您与ChatGPT语音谈话的web应用程序，口语练习 | 1.适配移动端2.支持超过100种语言3.语音陪练4.集成Azure的语音服务 |
 | 语音-03 | [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) | 2.4k | 一个开源的ChatGPT语音应用程序 | 1.集成ElevenLabs的语音服务2.支持docker部署 |
 | 语音-04 | [polyglot](https://github.com/liou666/polyglot) | 2.6k | Polyglot是一款基于ChatGPT和Azure的语言练习桌面端应用程序。 | 1.多国语言口语练习2.智能语音合成3.智能对话功能 |
@@ -224,7 +224,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 8.4k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
+| 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 8.5k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
 
 
 #### GPT工具-通用
@@ -234,7 +234,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 调教场景机器人-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 568 | 创建各种场景的对话机器人 | 1.写作助理2.代码解释器3.日报生成器等 |
+| 调教场景机器人-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 569 | 创建各种场景的对话机器人 | 1.写作助理2.代码解释器3.日报生成器等 |
 | 调教场景机器人-02 | [OpenGpt](https://github.com/futantan/OpenGpt) | 3.9k | 在几秒钟内创建自己的ChatGPT应用程序 | 1.创建各种场景的对话机器人，比如小红书、日报等 |
 | 通用-01 | [Portal](https://github.com/lxfater/Portal) | 1.7k | 通过键盘快捷键将任何选定的文本发送到ChatGPT进行处理，然后将结果返回到用户的剪贴板或光标位置(实现打字机效果)，可以在任意软件上操作ChatGPT | 1.任意软件划词翻译2.自定义提示语模板3.对话管理 && 对话图生成 |
 
