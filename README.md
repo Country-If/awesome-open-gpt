@@ -404,12 +404,12 @@ awesome-open-gpt/gpt相关开源项目合集
 | --- | --- | --- | --- |
 | [Reverse ChatGPT](https://github.com/acheong08/ChatGPT) | 28.0k | ChatGPT逆向工程 | 提取ChatGPT的API |
 | [Reverse EdgeGPT](https://github.com/acheong08/EdgeGPT) | 8.0k | NewBing逆向工程 | 提取NewBing的API |
-| [langchain](https://github.com/hwchase17/langchain) | 111.2k | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。 |
-| [Embedchain](https://github.com/embedchain/embedchain) | 36.6k | 用于在数据集上创建类似 ChatGPT 的机器人的框架 | 只需几行代码即可在任何数据集上轻松创建 LLM 支持的机器人。 |
+| [langchain](https://github.com/hwchase17/langchain) | 112.1k | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。 |
+| [Embedchain](https://github.com/embedchain/embedchain) | 37.3k | 用于在数据集上创建类似 ChatGPT 的机器人的框架 | 只需几行代码即可在任何数据集上轻松创建 LLM 支持的机器人。 |
 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 14.8k | 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页 | 解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found. |
 | [GPTCache](https://github.com/zilliztech/GPTCache) | 7.6k | 使用向量数据库技术为各种 LLM 应用提供一层语义缓存，能够缓存 LLM 响应，从而显著减少检索数据所需的时间、降低 API 调用开销、提升应用可扩展性 | 1.plugin类型设计，多个模块支持自定义，如embedding、存储、相似评估、请求前后处理 2.适配openai多个接口，如ChatComplete/Complete等，同时也集成至LangChain 3.请求中多个参数，可满足多个不同场景，如缓存开启关闭、是否进行相似搜索、多级cache等 |
-| [gpt4free](https://github.com/xtekky/gpt4free) | 64.6k | 此存储库为 GPT-4/3.5 提供反向工程的第三方 API，这些 API 来自各种网站。 | 1.比如poe.com、writesonic.com等第三方网站 |
-| [国内镜像站收集-01](https://github.com/xx025/carrot) | 17.1k | 收集国内免费ChatGPT镜像，替代品收录 |  |
+| [gpt4free](https://github.com/xtekky/gpt4free) | 64.7k | 此存储库为 GPT-4/3.5 提供反向工程的第三方 API，这些 API 来自各种网站。 | 1.比如poe.com、writesonic.com等第三方网站 |
+| [国内镜像站收集-01](https://github.com/xx025/carrot) | 17.0k | 收集国内免费ChatGPT镜像，替代品收录 |  |
 | [国内镜像站收集-02](https://github.com/GentleLemon/ChatGPT-Anything) | 272 | 收集国内免费ChatGPT镜像，替代品收录 |  |
 
 
