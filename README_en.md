@@ -154,7 +154,7 @@ Curated collection of open source projects
 | --- | --- | --- | --- | --- |
 | Paper summary | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 9.5k | Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复 | 1. Paper summary + editing + review + review response |
 | Paper conversation | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 2.7k | A LLM based research assistant that allows you to have a conversation with a research paper | Upload your paper and talk to it. |
-| PDF Talk-01 | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 7.3k | AI PDF chatbot agent built with LangChain & LangGraph  | 1. Build chatGPT chatbots for multiple large PDF files using the new GPT-4 API. |
+| PDF Talk-01 | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 7.3k | AI PDF chatbot agent built with LangChain & LangGraph | 1. Build chatGPT chatbots for multiple large PDF files using the new GPT-4 API. |
 | PDF Talk-02 | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 1.1k | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot! | 1.Talk based on CPT and uploaded PDF files |
 | PDF summary | [DocsGPT](https://github.com/arc53/DocsGPT) | 4.6k | Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents. | 1. Support summary PDF 2. Support sharing to discord |
 | PPT generate | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 540 | Use ChatGPT (or other backends) to generate PPT automatically, all in one single file. | 1. Generate ppt according to the title with one click 2. Support multiple languages |
@@ -192,7 +192,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表) | YouTube |
+| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube |
 | Video Chat | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 906 | [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. | 1.support miniGPT4、StableLM 和 MOSS |
 | Voice-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 3.6k | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | 1.support Sing2.support generate BGM3.Speech |
 | Voice-02 | [speechgpt](https://github.com/hahahumble/speechgpt) | 2.1k | 💬 SpeechGPT is a web application that enables you to converse with ChatGPT. | 1. Adapt to mobile 2. Support more than 100 languages 3. Voice sparring 4. Integrate Azure voice services |
