@@ -192,7 +192,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube |
+| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表) | YouTube |
 | Video Chat | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 906 | [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. | 1.support miniGPT4、StableLM 和 MOSS |
 | Voice-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 3.6k | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | 1.support Sing2.support generate BGM3.Speech |
 | Voice-02 | [speechgpt](https://github.com/hahahumble/speechgpt) | 2.1k | 💬 SpeechGPT is a web application that enables you to converse with ChatGPT. | 1. Adapt to mobile 2. Support more than 100 languages 3. Voice sparring 4. Integrate Azure voice services |
@@ -304,7 +304,7 @@ Curated collection of open source projects
 | Kubernetes-Plugin-01 | [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) | 579 | A ChatGPT bot for Kubernetes issues. | 1. Ask Chat GPT for Prometheus alerts directly to fix the alarms, and 2. Rely on the observability artifact robusta |
 | Kubernetes-Plugin-02 | [kubectl-ai](https://github.com/sozercan/kubectl-ai) | 672 | ✨ Kubectl plugin to create manifests with LLMs | 1. Generate Kubernetes configurations in natural language |
 | github-Plugin-01 | [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) | 1.6k | 🐥 A code review bot powered by ChatGPT | 1. Let Chat GPT automatically review Code 2. Have Chat GPT check your PR |
-| github-Plugin-02 | [chatgpt-action](https://github.com/kxxt/chatgpt-action) | 498 | Let ChatGPT review PRs for you  | 1. Let Chat GPT automatically review Code 2. Have Chat GPT check your PR |
+| github-Plugin-02 | [chatgpt-action](https://github.com/kxxt/chatgpt-action) | 498 | Let ChatGPT review PRs for you | 1. Let Chat GPT automatically review Code 2. Have Chat GPT check your PR |
 | Baidu-XiaoAi-Plugin | [xiaogpt](https://github.com/yihong0618/xiaogpt) | 2.7k | Play ChatGPT and other LLM with Xiaomi AI Speaker | 1. Play Chat GPT with Xiaomi AI speaker |
 | Blender-Plugin | [BlenderGPT](https://github.com/gd3kr/BlenderGPT) | 3.2k | Use commands in English to control Blender with OpenAI's GPT-4 | 1. Quickly build a 3D model after only entering text |
 | Siri-Plugin | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 2.6k | Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。 | 1. Support continuous conversation 2. Configure system prompt 3. Save chat history |
