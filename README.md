@@ -57,16 +57,16 @@ awesome-open-gpt/gpt相关开源项目合集
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | ChatGPT桌面版-01 | [lencx-ChatGPT🔥](https://github.com/lencx/ChatGPT) | 54.2k | ChatGPT桌面版(Windows、macOS和Linux) | 1.导出聊天记录(PNG, PDF和Markdown)2.支持斜杠调出常用Prompts(awesome-chatgpt-prompts )3.网页登录模式 |
-| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 36.9k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
+| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 37.0k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
 | ChatGPT桌面版-03 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 8.4k | ChatGPT加强版桌面应用 | 1.支持网站 + Windows + MacOS + Linux2.绕过 ChatGPT 区域限制的代理3.过滤聊天和文件夹 |
 | ChatGPT桌面版-04 | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) | 2.0k | 非官方的ChatGPT桌面应用程序(Windows、macOS和Linux) | 1.支持API模式，免登录2.支持在Windows和Mac的菜单栏显示 |
 | ChatGPT桌面版-05 | [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) | 1.7k | ChatGPT 跨平台客户端(Windows、macOS和Linux) | 1.支持设置对话角色2.支持文生图 |
 | NewBing桌面版 | [BingGPT](https://github.com/dice2o/BingGPT) | 9.1k | 新必应人工智能聊天桌面应用程序（Windows、macOS 和 Linux） | 1.无需安装 Microsoft Edge 或浏览器插件即可与新 Bing 聊天2.将完整对话导出为 Markdown、PNG 或 PDF3.自定义外观（主题和字体大小） |
 | ChatGPT-mac菜单版 | [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | 6.3k | 使ChatGPT生活在你的Mac菜单栏 | 1.在Mac菜单栏显示显示ChatGPT2.使用Cmd+Shift+G在任何地方唤起ChatGPT |
 | ChatGPT-web加强版-01 | [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) | 34.4k | 微软开源的一款工具，可以为 ChatGPT 添加图片能力 | 1.支持文生图2.支持文改图 |
-| ChatGPT-web加强版-02 | [chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) | 69.3k | ChatGPT 学术优化 | 1.支持一键润色、一键查找论文语法错误2.一键中英互译 3.可以正确显示代码、解释代码 4.一键可以剖析其他Python/C++项目 5.可以输出支持GPT的markdown表格 |
+| ChatGPT-web加强版-02 | [chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) | 69.4k | ChatGPT 学术优化 | 1.支持一键润色、一键查找论文语法错误2.一键中英互译 3.可以正确显示代码、解释代码 4.一键可以剖析其他Python/C++项目 5.可以输出支持GPT的markdown表格 |
 | ChatGPT-web加强版-03 | [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 31.9k | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页 | 1.支持下载对话内容2.支持Prompt模版 |
-| ChatGPT-web加强版-04 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 86.1k | 一键拥有你自己的 ChatGPT 网页服务 | 1.在 1 分钟内使用 Vercel 免费一键部署，并且支持容器部署2.海量的内置 prompt 列表，来自中文和英文3.一键导出聊天记录，完整的 Markdown 支持 |
+| ChatGPT-web加强版-04 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 86.2k | 一键拥有你自己的 ChatGPT 网页服务 | 1.在 1 分钟内使用 Vercel 免费一键部署，并且支持容器部署2.海量的内置 prompt 列表，来自中文和英文3.一键导出聊天记录，完整的 Markdown 支持 |
 | ChatGPT-web加强版-05 | [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | 32.5k | 搭建属于自己的 ChatGPT 网站: ChatBot-UI | 1.支持Prompt模版2.支持搜索聊天内容3.支持GPT-44.支持代码高亮显示5.支持Markdown输出 |
 | ChatGPT-web加强版-06 | [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | 15.4k | 轻快好用的ChatGPT Web图形界面 | 1.实时回复2.无限对话3.保存对话记录4.预设Prompt集5.联网搜索6.根据文件回答 |
 | ChatGPT-web加强版-07 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 8.4k | 一个惊人的开源web应用程序，具有更好的UI，用于探索OpenAI的ChatGPT API | 1.支持自定义提示词资料库2.支持使用文件夹整理聊天3.支持自定义用户/助理/系统身份4.支持将聊天保存为 Markdown/图片/JSON |
@@ -76,10 +76,10 @@ awesome-open-gpt/gpt相关开源项目合集
 | ChatGPT-web加强版-11 | [multimedia-gpt](https://github.com/fengyuli-dev/multimedia-gpt) | 180 | 为您的ChatGPT提供图像、视频和音频输入 | 1.将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。 |
 | ChatGPT-文心一言开源版 | [visual-openllm](https://github.com/visual-openllm/visual-openllm) | 1.2k | 文心一言的开源版，基于 ChatGLM + Visual ChatGPT + Stable Diffusion | 1.画图+聊天 |
 | ChatGPT-命令行版-01 | [shell\_gpt](https://github.com/TheR1D/shell_gpt) | 11.4k | 在Shell中使用ChatGPT | 1.支持api调用2.支持上下文 |
-| ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 8.3k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
+| ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 8.4k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
 | ChatGPT-命令行版-03 | [pandora](https://github.com/pengzhile/pandora) | 1.2k | 潘多拉，一个不只是命令行的ChatGPT | 多模式：网页/命令行/API，私有化部署 |
-| ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 661 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
-| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 30.8k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
+| ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 660 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
+| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 30.9k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
 
 
 ### GPT编程语言客户端
@@ -98,7 +98,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | Node-ChatGPT-Bing客户端 | [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | 4.2k | ChatGPT和Bing AI的node客户端 | 1.支持BingAIClient2.支持ChatGPTBrowserClient |
 | Go-OpenAi客户端 | [go-openai](https://github.com/sashabaranov/go-openai) | 10.3k | OpenAI的go客户端。 | 1.支持GPT-4 |
 | PHP-OpenAi客户端 | [openai-php](https://github.com/orhanerday/open-ai) | 2.4k | OpenAI的PHP SDK |  |
-| Android-ChatGPT客户端 | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 3.8k | 安卓的ChatGPT-SDK |  |
+| Android-ChatGPT客户端 | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 3.9k | 安卓的ChatGPT-SDK |  |
 | .Net-ChatGPT客户端 | [openai-dotnet](https://github.com/betalgo/openai) | 3.0k | OpenAI ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI和DALL-E的dotnet SDK |  |
 
 
