@@ -365,7 +365,7 @@ Curated collection of open source projects
 
 | github address | star | introduction | function |
 | --- | --- | --- | --- |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 64.1k | This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better. | Dialogue tuning in various scenarios |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 64.1k | Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | Dialogue tuning in various scenarios |
 | [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 29.9k | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 | Dialogue tuning for various scenarios (Chinese version) |
 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 23.8k | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | Teach you how to tune and train AI |
 | [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) | 3.3k | 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。 | Divided by domain and function, you can perform tag filtering, keyword search and one-click copying of prompt words. |
