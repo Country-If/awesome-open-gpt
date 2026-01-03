@@ -109,7 +109,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| GPT自动化-01 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 180.7k | 自动化的GPT | 1.与ChatGPT不同的是，用户不需要不断对AI提问以获得对应回答，在AutoGPT中只需为其提供一个AI名称、描述和五个目标，然后AutoGPT就可以自己完成项目2.它可以读写文件、浏览网页、审查自己提示的结果，以及将其与所说的提示历史记录相结合。 |
+| GPT自动化-01 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 180.8k | 自动化的GPT | 1.与ChatGPT不同的是，用户不需要不断对AI提问以获得对应回答，在AutoGPT中只需为其提供一个AI名称、描述和五个目标，然后AutoGPT就可以自己完成项目2.它可以读写文件、浏览网页、审查自己提示的结果，以及将其与所说的提示历史记录相结合。 |
 | GPT自动化-01-插件 | [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 3.9k | AutoGPT的插件 | 暂时没内容，仓库来源于AutoGPT作者，值得留意！！! |
 | GPT自动化-01-图形界面 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 1.5k | AutoGPT的图形用户界面 |  |
 | GPT自动化-01-图形界面 | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 189 | 一键免费部署你的私人AutoGPT 网页应用 | 1.1 分钟内使用 Vercel 免费一键部署2.改进的本地支持：输入中文后，内容将以中文显示，而不是英文 |
@@ -404,13 +404,13 @@ awesome-open-gpt/gpt相关开源项目合集
 | --- | --- | --- | --- |
 | [Reverse ChatGPT](https://github.com/acheong08/ChatGPT) | 28.0k | ChatGPT逆向工程 | 提取ChatGPT的API |
 | [Reverse EdgeGPT](https://github.com/acheong08/EdgeGPT) | 8.0k | NewBing逆向工程 | 提取NewBing的API |
-| [langchain](https://github.com/hwchase17/langchain) | 122.2k | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。 |
-| [Embedchain](https://github.com/embedchain/embedchain) | 44.4k | 用于在数据集上创建类似 ChatGPT 的机器人的框架 | 只需几行代码即可在任何数据集上轻松创建 LLM 支持的机器人。 |
+| [langchain](https://github.com/hwchase17/langchain) | 123.2k | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。 |
+| [Embedchain](https://github.com/embedchain/embedchain) | 44.9k | 用于在数据集上创建类似 ChatGPT 的机器人的框架 | 只需几行代码即可在任何数据集上轻松创建 LLM 支持的机器人。 |
 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 14.9k | 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页 | 解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found. |
-| [GPTCache](https://github.com/zilliztech/GPTCache) | 7.8k | 使用向量数据库技术为各种 LLM 应用提供一层语义缓存，能够缓存 LLM 响应，从而显著减少检索数据所需的时间、降低 API 调用开销、提升应用可扩展性 | 1.plugin类型设计，多个模块支持自定义，如embedding、存储、相似评估、请求前后处理 2.适配openai多个接口，如ChatComplete/Complete等，同时也集成至LangChain 3.请求中多个参数，可满足多个不同场景，如缓存开启关闭、是否进行相似搜索、多级cache等 |
-| [gpt4free](https://github.com/xtekky/gpt4free) | 65.5k | 此存储库为 GPT-4/3.5 提供反向工程的第三方 API，这些 API 来自各种网站。 | 1.比如poe.com、writesonic.com等第三方网站 |
+| [GPTCache](https://github.com/zilliztech/GPTCache) | 7.9k | 使用向量数据库技术为各种 LLM 应用提供一层语义缓存，能够缓存 LLM 响应，从而显著减少检索数据所需的时间、降低 API 调用开销、提升应用可扩展性 | 1.plugin类型设计，多个模块支持自定义，如embedding、存储、相似评估、请求前后处理 2.适配openai多个接口，如ChatComplete/Complete等，同时也集成至LangChain 3.请求中多个参数，可满足多个不同场景，如缓存开启关闭、是否进行相似搜索、多级cache等 |
+| [gpt4free](https://github.com/xtekky/gpt4free) | 65.7k | 此存储库为 GPT-4/3.5 提供反向工程的第三方 API，这些 API 来自各种网站。 | 1.比如poe.com、writesonic.com等第三方网站 |
 | [国内镜像站收集-01](https://github.com/xx025/carrot) | 17.1k | 收集国内免费ChatGPT镜像，替代品收录 |  |
-| [国内镜像站收集-02](https://github.com/GentleLemon/ChatGPT-Anything) | 275 | 收集国内免费ChatGPT镜像，替代品收录 |  |
+| [国内镜像站收集-02](https://github.com/GentleLemon/ChatGPT-Anything) | 274 | 收集国内免费ChatGPT镜像，替代品收录 |  |
 
 
 
