@@ -285,13 +285,13 @@ awesome-open-gpt/gpt相关开源项目合集
 | ChatGPT增强插件-01 | [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) | 6.5k | 一个浏览器扩展，增强您的ChatGPT提示与网络结果。 | 1.这个浏览器扩展为ChatGPT添加了web访问功能。从聊天机器人获得更多相关和最新的答案! |
 | ChatGPT增强插件-02 | [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) | 1.6k | 一个浏览器扩展，添加缺少的功能，如文件夹，搜索和社区提示ChatGPT | 1.支持文件夹和排序2.搜索高亮 |
 | 语音插件-01 | [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) | 1.9k | 用你的声音与ChatGPT AI交谈，并通过声音听它的答案。 | 1.和ChatGPT语音交流!2.支持多种语言 |
-| 语音插件-02 | [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) | 233 | 嵌入ChatGPT作为免提语音助手。 | 1.ChassistantGPT支持60多种语言和方言。选择您的母语和自定义触发短语(可在选项卡中配置) |
+| 语音插件-02 | [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) | 240 | 嵌入ChatGPT作为免提语音助手。 | 1.ChassistantGPT支持60多种语言和方言。选择您的母语和自定义触发短语(可在选项卡中配置) |
 | 分享插件 | [sharegpt](https://github.com/domeccleston/sharegpt) | 1.8k | 轻松地共享ChatGPT对话的永久链接到https://sharegpt.com/ | 1.一键分享自己ChatGPT对话到https://sharegpt.com |
 | 阅读插件 | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 587 | arxiv论文使用ChatGPT | 1.能帮你读arxiv论文，在一些地方给出注解 |
-| 总结插件-01 | [summarize.site](https://github.com/clmnin/summarize.site) | 750 | 使用OpenAI ChatGPT总结网页 |  |
+| 总结插件-01 | [summarize.site](https://github.com/clmnin/summarize.site) | 754 | 使用OpenAI ChatGPT总结网页 |  |
 | 总结插件-02 | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 2.0k | 它可以在Google搜索和YouTube旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。 |  |
 | 总结插件-03 | [WebPilot](https://github.com/webpilot-ai/Webpilot) | 1.9k | Webpilot是一个免费、开源的“网络副驾驶”，可以让您与网页进行自由形式的对话，或与其他用户进行自动争论。 | 1. 总结网页内容。 2. 可以自定义指令，对所选网页内容进行任何提问。 |
-| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 849 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
+| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 855 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
 
 
 #### GPT插件-第三方应用
@@ -347,7 +347,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | [BELLE](https://github.com/LianjiaTech/BELLE) | 8.3k | 开源中文对话大模型 | 1.现阶段本项目基于一些开源预训练大语言模型（如BLOOM、LAMMA等），针对中文做了优化，模型调优仅使用由ChatGPT生产的数据（不包含任何其他数据）。 |
 | [trlx](https://github.com/carperai/trlx) | 4.7k | 一个通过人类反馈强化学习(RLHF)对语言模型进行分布式训练的repo | 1.支持高达20b参数的在线RL和更大模型的离线RL。基本上就是你用来微调GPT到ChatGPT的项目 |
 | [lit-llama](https://github.com/Lightning-AI/lit-llama) | 6.1k | Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。 |  |
-| [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) | 91 | 高效微调一个聊天机器人：LLaMA-Adapter🚀 | 1.LLaMA在1小时内按照指示和1.2M参数进行微调 |
+| [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) | 92 | 高效微调一个聊天机器人：LLaMA-Adapter🚀 | 1.LLaMA在1小时内按照指示和1.2M参数进行微调 |
 | [KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) | 3.9k | KoboldAI-你通往GPT写作的大门 | 这是一个基于浏览器的前端I -辅助写作与多个本地和远程I模型 |
 | [ChatYuan](https://github.com/clue-ai/ChatYuan) | 1.9k | 国产的支持中英双语的功能型对话语言大模型：ChatYuan | 1.ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。 |
 | [wenda](https://github.com/l15y/wenda) | 6.2k | 闻达：一个大规模语言模型调用平台 | 1.目前支持模型：chatGLM-6B、chatRWKV、chatYuan。2.知识库自动查找3.支持参数在线调整 |
