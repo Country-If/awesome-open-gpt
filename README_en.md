@@ -218,7 +218,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Penetration testing tools | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 845 | A GPT-empowered penetration testing tool |  |
+| Penetration testing tools | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 845 | Automated Penetration Testing Agentic Framework Powered by Large Language Models |  |
 
 
 #### GPT-Tool-General
