@@ -307,7 +307,7 @@ Curated collection of open source projects
 | github-Plugin-02 | [chatgpt-action](https://github.com/kxxt/chatgpt-action) | 498 | Let ChatGPT review PRs for you | 1. Let Chat GPT automatically review Code 2. Have Chat GPT check your PR |
 | Baidu-XiaoAi-Plugin | [xiaogpt](https://github.com/yihong0618/xiaogpt) | 2.7k | Play ChatGPT and other LLM with Xiaomi AI Speaker | 1. Play Chat GPT with Xiaomi AI speaker |
 | Blender-Plugin | [BlenderGPT](https://github.com/gd3kr/BlenderGPT) | 3.2k | Use commands in English to control Blender with OpenAI's GPT-4 | 1. Quickly build a 3D model after only entering text |
-| Siri-Plugin | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 2.6k | Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。 | 1. Support continuous conversation 2. Configure system prompt 3. Save chat history |
+| Siri-Plugin | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 2.6k | Shortcuts for Siri using ChatGPT API, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。 | 1. Support continuous conversation 2. Configure system prompt 3. Save chat history |
 
 
 ### GPT Open Source Replacement Robot🔥🔥🔥
