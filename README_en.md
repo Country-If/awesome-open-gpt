@@ -85,7 +85,7 @@ Curated collection of open source projects
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
 | Node-ChatGPT Client | [chatgpt-node](https://github.com/transitive-bullshit/chatgpt-api) | 13.0k | Your API ⇒ Paid MCP. Instantly. |  |
-| Python-ChatGPT Client | [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | 3.9k | ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. | 1. Has automatic token regeneration, session tracking, proxy support, etc |
+| Python-ChatGPT Client | [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | 3.9k | ⚡️ Python client for the ChatGPT API with, conversation tracking, proxy support and more. | 1. Has automatic token regeneration, session tracking, proxy support, etc |
 | Python-Shell-ChatGPT Client | [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) | 3.1k | Power CLI and Workflow manager for LLMs (core package) | 1.support ChatGPT4 |
 | Java-ChatGPT Client-01 | [chatgpt-java](https://github.com/PlexPt/chatgpt-java) | 2.0k | ChatGPT Java SDK。支持 GPT-4o、 GPT-5 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered applications. | 1. Support context, blocking dialogs, agents, etc |
 | Java-ChatGPT Client-02 | [chatgpt-java](https://github.com/Grt1228/chatgpt-java) | 1.2k | ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4 Api Client for Java | 1. Support all official interfaces of Open AI 2. Support streaming output |
