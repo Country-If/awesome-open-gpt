@@ -57,7 +57,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | ChatGPT桌面版-01 | [lencx-ChatGPT🔥](https://github.com/lencx/ChatGPT) | 54.4k | ChatGPT桌面版(Windows、macOS和Linux) | 1.导出聊天记录(PNG, PDF和Markdown)2.支持斜杠调出常用Prompts(awesome-chatgpt-prompts )3.网页登录模式 |
-| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 38.9k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
+| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 39.0k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
 | ChatGPT桌面版-03 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 8.4k | ChatGPT加强版桌面应用 | 1.支持网站 + Windows + MacOS + Linux2.绕过 ChatGPT 区域限制的代理3.过滤聊天和文件夹 |
 | ChatGPT桌面版-04 | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) | 2.0k | 非官方的ChatGPT桌面应用程序(Windows、macOS和Linux) | 1.支持API模式，免登录2.支持在Windows和Mac的菜单栏显示 |
 | ChatGPT桌面版-05 | [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) | 1.8k | ChatGPT 跨平台客户端(Windows、macOS和Linux) | 1.支持设置对话角色2.支持文生图 |
