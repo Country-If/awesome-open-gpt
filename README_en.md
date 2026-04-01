@@ -365,7 +365,7 @@ Curated collection of open source projects
 
 | github address | star | introduction | function |
 | --- | --- | --- | --- |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 64.1k | Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | Dialogue tuning in various scenarios |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 64.1k | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | Dialogue tuning in various scenarios |
 | [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 29.9k | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 | Dialogue tuning for various scenarios (Chinese version) |
 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 23.8k | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | Teach you how to tune and train AI |
 | [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) | 3.3k | 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。 | Divided by domain and function, you can perform tag filtering, keyword search and one-click copying of prompt words. |
@@ -399,8 +399,8 @@ Curated collection of open source projects
 | [langchain](https://github.com/hwchase17/langchain) | 2.3k | The agent engineering platform | It helps developers combine LLM with other computing or knowledge sources to create more powerful applications. |
 | [Embedchain](https://github.com/embedchain/embedchain) | 3.9k | Universal memory layer for AI Agents | Easily create LLM powered bots over any dataset with just few lines of code. |
 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 1.8k | 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。 | 解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found. |
-| [GPTCache](https://github.com/zilliztech/GPTCache) | 914 | Semantic cache for LLMs. Fully integrated with LangChain and llama\_index. | 1.plugin type design, multiple modules support customization, such as embedding, storage, similarity evaluation, pre- and post-request processing 2. Adapt to multiple interfaces of openai, such as ChatCompleteComplete, etc., and also integrate into LangChain 3. Multiple parameters in the request can meet a number of different scenarios, such as cache opening and closing, whether to conduct similar search, multi-level cache, etc |
-| [gpt4free🔥](https://github.com/xtekky/gpt4free) | 5.5k | The official gpt4free repository | various collection of powerful language models |
+| [GPTCache](https://github.com/zilliztech/GPTCache) | 914 | Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.  | 1.plugin type design, multiple modules support customization, such as embedding, storage, similarity evaluation, pre- and post-request processing 2. Adapt to multiple interfaces of openai, such as ChatCompleteComplete, etc., and also integrate into LangChain 3. Multiple parameters in the request can meet a number of different scenarios, such as cache opening and closing, whether to conduct similar search, multi-level cache, etc |
+| [gpt4free🔥](https://github.com/xtekky/gpt4free) | 5.5k | The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3 | various collection of powerful language models |
 
 
 
