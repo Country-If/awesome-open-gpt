@@ -57,7 +57,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | ChatGPT桌面版-01 | [lencx-ChatGPT🔥](https://github.com/lencx/ChatGPT) | 54.4k | ChatGPT桌面版(Windows、macOS和Linux) | 1.导出聊天记录(PNG, PDF和Markdown)2.支持斜杠调出常用Prompts(awesome-chatgpt-prompts )3.网页登录模式 |
-| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 39.8k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
+| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 39.9k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
 | ChatGPT桌面版-03 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 8.4k | ChatGPT加强版桌面应用 | 1.支持网站 + Windows + MacOS + Linux2.绕过 ChatGPT 区域限制的代理3.过滤聊天和文件夹 |
 | ChatGPT桌面版-04 | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) | 2.0k | 非官方的ChatGPT桌面应用程序(Windows、macOS和Linux) | 1.支持API模式，免登录2.支持在Windows和Mac的菜单栏显示 |
 | ChatGPT桌面版-05 | [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) | 1.8k | ChatGPT 跨平台客户端(Windows、macOS和Linux) | 1.支持设置对话角色2.支持文生图 |
@@ -79,7 +79,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 10.0k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
 | ChatGPT-命令行版-03 | [pandora](https://github.com/pengzhile/pandora) | 1.2k | 潘多拉，一个不只是命令行的ChatGPT | 多模式：网页/命令行/API，私有化部署 |
 | ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 654 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
-| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 36.7k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
+| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 36.8k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
 
 
 ### GPT编程语言客户端
@@ -159,10 +159,10 @@ awesome-open-gpt/gpt相关开源项目合集
 | --- | --- | --- | --- | --- |
 | 论文总结 | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 19.4k | 利用chatgpt进行论文总结+润色+审稿+审稿回复 | 1.论文总结+润色+审稿+审稿回复 |
 | 论文交谈 | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 3.5k | 一个开源的LLM研究助手，允许您与研究论文进行对话 | 上传论文，和论文对话。 |
-| PDF交谈-01 | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 16.4k | PDF聊天机器人 | 1.使用新的GPT-4 api为多个大型PDF文件构建chatGPT聊天机器人。 |
+| PDF交谈-01 | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 16.5k | PDF聊天机器人 | 1.使用新的GPT-4 api为多个大型PDF文件构建chatGPT聊天机器人。 |
 | PDF交谈-02 | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 7.2k | PDF GPT 允许您使用 GPT 功能与 PDF 文件的内容聊天。在聊天机器人中转换您的 pdf 文件的唯一开源解决方案！ | 1.基于CPT和上传的PDF文件交谈 |
-| PDF总结 | [DocsGPT](https://github.com/arc53/DocsGPT) | 17.8k | ChatGPT文档阅读器 | 1.支持总结PDF2.支持分享到discord |
-| PPT生成 | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 924 | 使用ChatGPT自动生成PPT | 1.根据标题一键生成ppt2.支持多种语言 |
+| PDF总结 | [DocsGPT](https://github.com/arc53/DocsGPT) | 17.9k | ChatGPT文档阅读器 | 1.支持总结PDF2.支持分享到discord |
+| PPT生成 | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 923 | 使用ChatGPT自动生成PPT | 1.根据标题一键生成ppt2.支持多种语言 |
 | PDF阅读 | [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) | 1.7k | 以各种风格的语言阅读PDF、DOCX文件 | 该工具旨在帮助用户将文本从一种格式转换为另一种格式，以及使用 OpenAI API (model=gpt-3.5-turbo) 将其翻译成另一种语言。 目前支持PDF、DOCX、MOBI和EPUB文件格式转换翻译成EPUB文件及文本文件，可以将文字翻译成多种语言。 |
 | markdown文档 | [markprompt](https://github.com/motifland/markprompt) | 1.6k | 使用GPT4来阅读markdown文档 | 1.它扫描GitHub库里的 Markdown、 Markdoc 和 MDX 文件，并创建可用于创建提示的嵌入 |
 | 文档生成问题答案 | [auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) | 1.1k | 输入文档自动生成问题、答案、评分 | 1.自动生成问题答案2.对相对于答案的响应进行评分 3.支持json、PDF、TXT等格式 |
@@ -176,19 +176,19 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| git工具-03 | [aicommits](https://github.com/Nutlope/aicommits) | 8.9k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
-| git工具-02 | [opencommit](https://github.com/di-sukharev/opencommit) | 7.2k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
+| git工具-03 | [aicommits](https://github.com/Nutlope/aicommits) | 9.0k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
+| git工具-02 | [opencommit](https://github.com/di-sukharev/opencommit) | 7.3k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
 | git工具-01 | [gptcommit](https://github.com/zurawiki/gptcommit) | 2.4k | 用ChatGPT提交commit | git prepare-commit-msg钩子，用于用GPT-3编写提交消息。有了这个工具，你可以很容易地生成清晰、全面和描述性的提交消息 |
-| github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 391 | 一个基于ChatGPT的GitHub机器人 |  |
+| github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 394 | 一个基于ChatGPT的GitHub机器人 |  |
 | 错误检测-01 | [wolverine](https://github.com/biobootloader/wolverine) | 5.1k | 使用Wolverine运行脚本，当它们崩溃时，GPT-4会编辑它们并解释错误所在。即使你有很多错误，它也会反复重新运行，直到它被修复。 |  |
 | 错误检测-02 | [stackexplain](https://github.com/shobrook/stackexplain) | 1.4k | 使用ChatGPT用简单的英语解释你的错误信息 | 用stackexplain命令运行pythohn脚本，并且自动检测错误给出正确的修复方法 |
-| SQL客户端-01 | [sqlchat](https://github.com/sqlchat/sqlchat) | 5.7k | SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 | 1.支持MySQL和PostgreSQL |
-| SQL客户端-02 | [Chat2DB](https://github.com/chat2db/Chat2DB) | 25.2k | 一款智能、通用的通用 SQL 客户端和数据库报告工具，集成了 ChatGPT 功能。 | 1.AI智能助手，支持自然语言到SQL转换、SQL到自然语言转换、SQL优化建议2.强大的扩展能力，目前支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等，未来将支持更多数据库 |
+| SQL客户端-01 | [sqlchat](https://github.com/sqlchat/sqlchat) | 5.8k | SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 | 1.支持MySQL和PostgreSQL |
+| SQL客户端-02 | [Chat2DB](https://github.com/chat2db/Chat2DB) | 25.6k | 一款智能、通用的通用 SQL 客户端和数据库报告工具，集成了 ChatGPT 功能。 | 1.AI智能助手，支持自然语言到SQL转换、SQL到自然语言转换、SQL优化建议2.强大的扩展能力，目前支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等，未来将支持更多数据库 |
 | 代码搜索引擎 | [bloop](https://github.com/BloopAI/bloop) | 9.5k | bloop 是一个代码搜索引擎，它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库 | 1.正则表达式搜索2.同步本地和Github仓库 |
-| 代码对话 | [gpt-runner](https://github.com/nicepkg/gpt-runner) | 376 | 与您的文件对话！管理和运行您的 AI 预设！ | 1.与代码文件的对话 2.管理项目的 AI 预设 |
+| 代码对话 | [gpt-runner](https://github.com/nicepkg/gpt-runner) | 379 | 与您的文件对话！管理和运行您的 AI 预设！ | 1.与代码文件的对话 2.管理项目的 AI 预设 |
 | 代码生成 | [aiac](https://github.com/gofireflyio/aiac) | 3.8k | 命令行的代码生成器 | 1.生成IaC2.生成docker、k8s配置3.生成CI/CD4.生成SQL |
 | 语言转换 | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 4.2k | 使用 AI 将代码从一种语言翻译成另一种语言。 |  |
-| 数据处理 | [pandas-ai](https://github.com/gventuri/pandas-ai) | 23.3k | 它将生成式人工智能功能集成到Pandas中，使数据框架具有会话性。 |  |
+| 数据处理 | [pandas-ai](https://github.com/gventuri/pandas-ai) | 23.5k | 它将生成式人工智能功能集成到Pandas中，使数据框架具有会话性。 |  |
 
 
 #### GPT工具-音视频
@@ -198,7 +198,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 视频总结 | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 5.9k | 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 | 开发中：支持网页丨播客丨会议丨本地音视频文件等输入，Prompt 和输出端均在持续迭代中 |
+| 视频总结 | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 6.0k | 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 | 开发中：支持网页丨播客丨会议丨本地音视频文件等输入，Prompt 和输出端均在持续迭代中 |
 | 视频交谈 | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 3.3k | 具有视频理解功能的 ChatGPT！ | 1.支持miniGPT4、StableLM 和 MOSS |
 | 语音-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 10.2k | 理解和生成语音、音乐、声音和说话头 | 1.支持唱歌2.支持看图生成BGM3.生成音效 |
 | 语音-02 | [speechgpt](https://github.com/hahahumble/speechgpt) | 2.8k | SpeechGPT是一个允许您与ChatGPT语音谈话的web应用程序，口语练习 | 1.适配移动端2.支持超过100种语言3.语音陪练4.集成Azure的语音服务 |
@@ -224,7 +224,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 12.9k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
+| 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 13.0k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
 
 
 #### GPT工具-通用
