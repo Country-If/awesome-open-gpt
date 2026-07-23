@@ -51,7 +51,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| ChatGPT Desktop-01 | [lencx-ChatGPT](https://github.com/lencx/ChatGPT) | 32.5k | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) | 1. Export chat history (PNG, PDF and Markdown) 2. Support slash to bring up common Prompts (awesome-chatgpt-prompts) 3. Web login mode |
+| ChatGPT Desktop-01 | [lencx-ChatGPT](https://github.com/lencx/ChatGPT) | 32.5k | ❄️ ChatGPT Desktop Application (Mac, Windows and Linux) | 1. Export chat history (PNG, PDF and Markdown) 2. Support slash to bring up common Prompts (awesome-chatgpt-prompts) 3. Web login mode |
 | ChatGPT Desktop-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 8.5k | Powerful AI Client | 1. Support Windows, Mac and Linux 2. Freer and more powerful Prompt capability 3. Support GPT-4 and other models 4. More features: Markdown, message reference, word count and token estimation, night mode... |
 | ChatGPT Desktop-03 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 3.3k | An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux) | 1.support Web + Windows + MacOS + Linux2.Proxy to bypass ChatGPT regional restrictions3.Filter chats and folders |
 | ChatGPT Desktop-04 | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) | 1.7k | Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust | 1. Support API mode, no login 2. Support menu bar display in Windows and Mac |
